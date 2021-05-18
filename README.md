@@ -6,3 +6,7 @@ This repository followed along with the django tutorial from [WEB+DB PRESS Vol.1
 ![スクリーンショット 2021-05-18 20 40 39](https://user-images.githubusercontent.com/33516104/118645370-d1e3ea00-b819-11eb-9c04-f76057960dab.png)
 ### ⭐️detail view
 ![スクリーンショット 2021-05-18 20 40 48](https://user-images.githubusercontent.com/33516104/118645363-d0b2bd00-b819-11eb-8ed4-ad0a96314353.png)
+
+
+## Reference 
+- Author's original repository is https://github.com/zenproducts/webdbpress-2104-django/tree/master
